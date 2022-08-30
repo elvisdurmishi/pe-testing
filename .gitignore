@@ -3,7 +3,6 @@ app/decrypted/
 models/
 *.pkl
 datasets/exports/*.json
-datasets/exports/*
 !datasets/exports/.gitignore
 .DS_Store
 datasets/spam-classifier/
