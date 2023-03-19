@@ -7,3 +7,7 @@ python-dotenv
 tensorflow
 uvicorn
 boto3
+pydantic
+dataclasses
+pymongo
+python-dotenv
